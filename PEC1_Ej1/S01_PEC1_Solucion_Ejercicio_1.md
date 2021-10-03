@@ -15,9 +15,11 @@ CSS sobre el mismo elemento en su visualización en diferentes dispositivos
 * Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos
 CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).
 
-### El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes ventajas (0.5 puntos)
+
+
 
 ---
+
 
 ### El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes ventajas (0.5 puntos)
 
@@ -43,7 +45,7 @@ CSS sobre el mismo elemento en su visualización en diferentes dispositivos (dif
     Un transpilador es un programa capaz de traducir el código de un lenguaje fuente a otro fuente, o de una versión a otra. Un ejemplo  de esto sería el código escrito en ES6, traducido a ES5, es decir que un código con posibles problemas de compatibilidad se lo pueda hacer compatible con otra plataforma.
     
     Los transpiladores son usados durante la fase de desarrollo, mientras el programador escribe el código, el transpilador  ejecuta el proceso de traducción/compilación antes de que el código sea llevado a etapa de producción.
-
+---
 ### El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas como controles de versiones y herramientas de gestión de módulos (0.75 puntos).
 
 - **Cita al menos dos sistemas de control de versiones y dos herramientas de gestión de módulos:**
