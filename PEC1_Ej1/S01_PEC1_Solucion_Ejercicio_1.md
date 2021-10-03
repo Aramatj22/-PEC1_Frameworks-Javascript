@@ -2,18 +2,23 @@
 
 ### La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end moderno. (0.75 puntos)
 
-* ¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al
-menos 3 de estas ventajas.
+**¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al menos 3 de estas ventajas.**
+  - **Código  claro y fácil de mantener:** En la parte práctica el uso de etiquetas semánticas permite que el código tenga mayor sentido, y se acerque más a un idioma natural, donde cada elemento utilice las palabras adecuadas, además permite una mejor organización cuando el proyecto empieza a escalar.
+  
+  - **Accesibilidad: U**tilizar las etiquetas correctas para cada elemento o sección del sitio web, facilitará la navegación para todos los usuarios incluyendo a personas con diversidad funcional.
+    
+    Al existir una considerable cantidad de usuarios que dependen de un software lector de pantalla para navegar por el internet, con el uso de etiquetas semánticas correctas asegurarnos de que los lectores de pantalla puedan leer cada elemento. 
+    
+  - **Mejora el posicionamiento SEO:** Utilizar un marcado semántico facilitará a los algoritmos de posicionamiento analizar nuestro sitio y darle un mejor índice de posicionamiento.
+    
+    Como por ejemplo en el caso de Google, utilizan un algoritmo de aprendizaje automático, el cual analiza el código de nuestro sitio web, y utiliza el marcado y las etiquetas utilizadas para entender mejor el propósito del sitio.  Por lo tanto un adecuado marcado semántico  favorece nuestro SEO.
 
-* Cita al menos 3 APIs HTML5 y explica brevemente su funcionalidad.
+- **Cita al menos 3 APIs HTML5 y explica brevemente su funcionalidad.**
 
 
- * Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos
-CSS sobre el mismo elemento en su visualización en diferentes dispositivos
-(diferentes tamaños de pantalla).
+- **Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).**
 
-* Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos
-CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).
+- **Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).**
 
 
 
@@ -49,8 +54,9 @@ CSS sobre el mismo elemento en su visualización en diferentes dispositivos (dif
 ### El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas como controles de versiones y herramientas de gestión de módulos (0.75 puntos).
 
 - **Cita al menos dos sistemas de control de versiones y dos herramientas de gestión de módulos:**
-    1. **[Git](https://git-scm.com/):** es una herramientas de control de versiones disponible en el mercado actual. Es un modelo de repositorio distribuido compatible con sistemas y protocolos existentes como HTTP, FTP, SSH y es capaz de manejar eficientemente proyectos pequeños a grandes.
-    2. **[Apache Subversion](https://subversion.apache.org/) (SVN):** abreviado como SVN. Es un modelo de repositorio cliente-servidor donde los directorios están versionados junto con las operaciones de copia, eliminación, movimiento y cambio de nombre.
+- 
+    1 **Git** es una herramientas de control de versiones disponible en el mercado actual. Es un modelo de repositorio distribuido compatible con sistemas y protocolos existentes como HTTP, FTP, SSH y es capaz de manejar eficientemente proyectos pequeños a grandes.
+    1. **Apache Subversion:** abreviado como SVN. Es un modelo de repositorio cliente-servidor donde los directorios están versionados junto con las operaciones de copia, eliminación, movimiento y cambio de nombre.
     
     ---
     
